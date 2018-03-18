@@ -1,0 +1,4 @@
+#Sun Mar 18 22:16:40 WIB 2018
+base.0=/home/sony/Downloads/septian_1106130171_studycase4/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
